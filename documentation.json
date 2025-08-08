@@ -8,7 +8,7 @@
         "pages": [
           {
             "title": "Introduction",
-            "path": "introduction.mdx"
+            "path": "introduction"
           }
         ]
       }
